@@ -10,6 +10,9 @@ Three skills that take a real mechanism from research to finished media.
 
 Built and tested on a cycloidal drive (11:1, two discs, 12 ring pins). The animation scripts are templates: copy them and edit the project-specific blocks named in each file header. They have not yet been run on a second mechanism.
 
+## Example
+[`examples/cycloidal-drive`](examples/cycloidal-drive): the finished vertical clip and a contact sheet.
+
 ## Install
 ```sh
 cp -r skills/* ~/.claude/skills/
